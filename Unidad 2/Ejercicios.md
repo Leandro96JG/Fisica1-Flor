@@ -148,4 +148,10 @@ $$
 - Donde $m$ es la masa del proyectil
 - $v$ es la velocidad en el instante $t= 5s$
 
-**Para obtener la masa usamos la relación $P = m * g$**
+**Para obtener la masa usamos la relación $P = m * g$**:
+
+   ![peso](https://latex.codecogs.com/svg.image?\bg{white}$$m=\frac{p}{g}=\frac{78.4N}{9.8\frac{m}{s{^2}}}$$)
+   
+  - Luego la  velocidad en el tiempo t=5s la calculamos con la fórmula de la velocidad en un MRUV
+
+    ![vfinal](https://latex.codecogs.com/svg.image?\bg{white}$$v=v_o-g*t$$)
