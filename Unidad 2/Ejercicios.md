@@ -22,49 +22,39 @@ con abscisas, los siguientes vectores que parten del origen del sistema:
  - Angulo = 45° hacia la der del eje x.
 
 ### Paso 1: Descomponer los vectores en componentes 𝑥 e 𝑦
-**Formula para las componentes**
-$$
-componente en x=magnitud⋅cos(θ)
-$$
-$$
-componente en y=magnitud⋅sin(θ)
-$$
+**Formula para las componentes:**
+
+componente en x = magnitud⋅cos(θ)
+
+componente en y = magnitud⋅sin(θ)
 
 *Vector 1*
 $$
-x_1=400⋅cos(120°)=400⋅(−0.5)=−200N
+x1=400⋅cos(120°)=400⋅(−0.5)=−200N
 $$
 $$
-y_1=400⋅sin(120°)=400⋅(0.866)=346.4N
+y1=400⋅sin(120°)=400⋅(0.866)=346.4N
 $$
 
 *Vector 2*
 $$
-x_2=150⋅cos(45°)=150⋅(0.707)=106.05N
+x2=150⋅cos(45°)=150⋅(0.707)=106.05N
 $$
 $$
-y_2=150⋅sin(45°)=150⋅(0.707)=106.05N
+y2=150⋅sin(45°)=150⋅(0.707)=106.05N
 $$
 
 ### Paso 2: Sumar las componentes x e y
 $$
-x_t = x_1 + x_2 = -200 + 106.05 = -93.95N
+xt = x1 + x2 = -200 + 106.05 = -93.95N
 $$
 $$
-y_t = y_1 + y_2 = 346.4 + 106.05 = 452.45N
+yt = y1 + y2 = 346.4 + 106.05 = 452.45N
 $$
 
 ### Paso 3: Calcular la magnitud resultante
 - Usando teorema de Pitágoras:
-$$
-R = \sqrt{x_t^2 + y_t^2}
-$$
-$$
-R = \sqrt{(-95.95)^2 + (452.45)^2}=\sqrt{8826.6 + 204710.5} = \sqrt{213537.1}
-$$
-$$
-R \approx 462N
-$$
+![magnitud](https://latex.codecogs.com/svg.image?\bg{white}$$R=\sqrt{x_t^2&plus;y_t^2}$$$$R=\sqrt{(-95.95)^2&plus;(452.45)^2}=\sqrt{8826.6&plus;204710.5}=\sqrt{213537.1}$$$$R\approx&space;462N$$)
 
 ### Paso 4: Calcular el angulo con respecto al eje x
 $$
