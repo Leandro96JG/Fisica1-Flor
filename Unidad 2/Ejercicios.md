@@ -24,10 +24,10 @@ con abscisas, los siguientes vectores que parten del origen del sistema:
 ### Paso 1: Descomponer los vectores en componentes 𝑥 e 𝑦
 **Formula para las componentes**
 $$
-Componente en x=Magnitud⋅cos(θ)
+componente en x=magnitud⋅cos(θ)
 $$
 $$
-Componente en y=Magnitud⋅sin(θ)
+componente en y=magnitud⋅sin(θ)
 $$
 
 *Vector 1*
