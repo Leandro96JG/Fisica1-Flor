@@ -70,19 +70,12 @@ $$
 **Datos proporcionados:**
 1. Distancia: d = 2km pasamos km a metros = 2000m
 2. Fuerza: f = 1440N
-3. Tomaremos en cuenta que el angulo $\theta$ de inclinacion donde se aplica la fuerza es 0. 
+3. Tomaremos en cuenta que el angulo de inclinacion donde se aplica la fuerza es 0. 
 
 ### Paso 1
 - Sabemos que la formula general de trabajo es:
-$$
-W = F * d * cos\theta
-$$
-$$
-W = 1440N * 2000m * 1
-$$
-$$
-W = 2880000J
-$$
+
+    ![W](https://latex.codecogs.com/svg.image?\bg{white}$$W=F*d*cos\theta$$$$W=1440N*2000m*1$$$$W=2880000J$$)
 > 4.  ¿Qué trabajo realiza una persona para elevar una bolsa 2 m utilizando de 300 N?
 - *Igual al ejercicio 3*
 
