@@ -29,27 +29,20 @@ componente en x = magnitud⋅cos(θ)
 componente en y = magnitud⋅sin(θ)
 
 *Vector 1*
-$$
-x1=400⋅cos(120°)=400⋅(−0.5)=−200N
-$$
-$$
-y1=400⋅sin(120°)=400⋅(0.866)=346.4N
-$$
+
+![vector1](https://latex.codecogs.com/svg.image?\bg{white}$$x_1=400&space;cos(120)=400(0.5)=200N$$$$y_1=400&space;sin(120)=400(0.866)=346.4N$$)
 
 *Vector 2*
-$$
-x2=150⋅cos(45°)=150⋅(0.707)=106.05N
-$$
-$$
-y2=150⋅sin(45°)=150⋅(0.707)=106.05N
-$$
+
+![vector1](https://latex.codecogs.com/svg.image?\bg{white}$$x_2=150&space;cos(45)=150(0.707)=106.05N$$$$y_2=150&space;sin(45)=150(0.707)=106.05N$$)
+
 
 ### Paso 2: Sumar las componentes x e y
 $$
-xt = x1 + x2 = -200 + 106.05 = -93.95N
+x_t = x1 + x2 = -200 + 106.05 = -93.95N
 $$
 $$
-yt = y1 + y2 = 346.4 + 106.05 = 452.45N
+y_t = y1 + y2 = 346.4 + 106.05 = 452.45N
 $$
 
 ### Paso 3: Calcular la magnitud resultante
@@ -59,7 +52,7 @@ $$
 
 ### Paso 4: Calcular el angulo con respecto al eje x
 
-![angulo](https://latex.codecogs.com/svg.image?\bg{black}$$\theta=tan^-1(y_t/x_t)$$)
+![angulo](https://latex.codecogs.com/svg.image?\bg{white}{\color{white}}$$\theta=tan^-1(y_t/x_t)$$)
 
 ![grafica1](grafica1.jpg)
 
@@ -108,29 +101,19 @@ $$
  2. Tiempo total : $t = 10s$
 
  ### Calcular la altura
- - Ya que el cuerpo cae libremente y teniendo en cuenta la formula de MRUV para calcular la distancia sabiendo que la aceleración de la gravedad es $g = 9.8 m/s^2$:
- $$
- d = 1/2 *g*t^2
- $$
- $$
- d = 1/2 * 9.8m/s^2 *(10s)^2
- $$
- $$
- d = 490m
- $$
+ - Ya que el cuerpo cae libremente y teniendo en cuenta la formula de MRUV para calcular la distancia sabiendo que la aceleración de la gravedad es g = 9.8 m/s^2:
 
+      ![altura](https://latex.codecogs.com/svg.image?\bg{white}$$d=1/2*g*t^2$$$$d=1/2*9.8m/s^2*(10s)^2$$$$d=490m$$)
  ### Calcular la velocidad final con la que llega al suelo
  - Utilizando la fórmula de la velocidad en un MRUV sabemos que:
- $$
- v = a * t
- $$
+
+    v = a * t
+
  - Donde $a$ es la aceleración de la gravedad
- $$
- v = 9.8m/s^2 * 10s
- $$
- $$
- v = 98m/s
- $$
+ 
+   v = 9.8m/s^2 * 10s
+ 
+   v = 98m/s
 
 ### Calcular el trabajo para elevar el cuerpo
 
@@ -166,9 +149,8 @@ $$
 
 **Como resolver:**
 - Sabemos que la formula de la Energia Cinetica es: 
-$$
-E_c=\frac{1}{2} m v^2
-$$
+
+  ![Ec](https://latex.codecogs.com/svg.image?\bg{white}$$E_c=\frac{1}{2}m&space;v^2$$)
 
 - Donde $m$ es la masa del proyectil
 - $v$ es la velocidad en el instante $t= 5s$
