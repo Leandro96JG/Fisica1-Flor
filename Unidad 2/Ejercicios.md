@@ -22,7 +22,7 @@ con abscisas, los siguientes vectores que parten del origen del sistema:
  - Angulo = 45° hacia la der del eje x.
 
 ### Paso 1: Descomponer los vectores en componentes 𝑥 e 𝑦
-**Formula para las componentes:**
+**Formula para las componentes**
 $$
 Componente en x=Magnitud⋅cos(θ)
 $$
@@ -30,7 +30,7 @@ $$
 Componente en y=Magnitud⋅sin(θ)
 $$
 
-*Vector 1:*
+*Vector 1*
 $$
 x_1=400⋅cos(120°)=400⋅(−0.5)=−200N
 $$
@@ -38,7 +38,7 @@ $$
 y_1=400⋅sin(120°)=400⋅(0.866)=346.4N
 $$
 
-*Vector 2:*
+*Vector 2*
 $$
 x_2=150⋅cos(45°)=150⋅(0.707)=106.05N
 $$
