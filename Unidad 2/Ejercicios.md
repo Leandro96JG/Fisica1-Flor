@@ -54,12 +54,12 @@ $$
 
 ### Paso 3: Calcular la magnitud resultante
 - Usando teorema de Pitágoras:
-![magnitud](https://latex.codecogs.com/svg.image?\bg{white}$$R=\sqrt{x_t^2&plus;y_t^2}$$$$R=\sqrt{(-95.95)^2&plus;(452.45)^2}=\sqrt{8826.6&plus;204710.5}=\sqrt{213537.1}$$$$R\approx&space;462N$$)
+
+![magnitud](https://latex.codecogs.com/svg.image?\bg{black}$$R=\sqrt{x_t^2&plus;y_t^2}$$$$R=\sqrt{(-95.95)^2&plus;(452.45)^2}=\sqrt{8826.6&plus;204710.5}=\sqrt{213537.1}$$$$R\approx&space;462N$$)
 
 ### Paso 4: Calcular el angulo con respecto al eje x
-$$
-\angle = tan^-1(y_t/x_t)
-$$
+
+![angulo](https://latex.codecogs.com/svg.image?\bg{black}$$\theta=tan^-1(y_t/x_t)$$)
 
 ![grafica1](grafica1.jpg)
 
